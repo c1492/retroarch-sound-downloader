@@ -2,7 +2,7 @@
 A simple bash script to add the sound assets to the Arch Linux Retroarch package
 
 Dependencies:
-* npm
+* github-files-fetcher
 * bash
 * retroarch
 
@@ -17,7 +17,6 @@ sudo ./retroarch-sound-downloader.sh
 or alternatively, follow these instructions without using the shell script:
 
 ```
-sudo npm install github-files-fetcher
 github-files-fetcher --url=https://github.com/libretro/retroarch-assets/tree/master/sounds
 sudo mv sounds /usr/share/retroarch/assets
 ```
