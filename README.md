@@ -5,5 +5,6 @@ Dependencies:
 * npm
 * bash
 * retroarch
+
 Installation:
 clone repository, and run script as root
