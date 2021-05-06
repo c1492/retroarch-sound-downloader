@@ -1,6 +1,8 @@
 # retroarch-sound-downloader
 A simple bash script to add the sound assets to the Arch Linux Retroarch package
 
+Are the menu sounds broken for you? Is retroarch quiet even after enabling menu sounds? This script may fix that problem, without having to download all of the retroarch assets.
+
 Dependencies:
 * github-files-fetcher
 * bash
