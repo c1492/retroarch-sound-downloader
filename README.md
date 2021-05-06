@@ -10,4 +10,4 @@ To use, clone repository, and run script as root, something like:
 ```
 git clone https://github.com/c1492/retroarch-sound-downloader.git
 cd retroarch-sound-downloader
-sudo retroarch-sound-downloader.sh
+sudo ./retroarch-sound-downloader.sh
